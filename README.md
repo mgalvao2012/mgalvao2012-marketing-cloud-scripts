@@ -21,6 +21,6 @@ SubscriberKey,Id,EmailAddress,Name,FinancialAccountType,OpenDate,CloseDate
  python3 convert.py source.csv target.csv
 ```
 
-### How to do it using SSJS. This approach is recommended when the CSV is stored inside of Marketing Cloud:=
+### How to do it using SSJS. This approach is recommended when the CSV is stored inside of Marketing Cloud:
 
 [[convertDE.js](./convertDE.js)]
